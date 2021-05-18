@@ -5,9 +5,9 @@ This is the first step towards my persoal goal - create a robot to solve a rubik
 I decided to write in C++ beucase I had C++ for one of my university courses. So, it was the language that I was most familiar with at the time I wrote the program,
 and I wanted to apply what I learned in class. 
 
-The program read a file containing the scramble algorithm of a rubik's cube. Then, the program runs a series of functions and tests, and output a solution algorithm at the end.
+The program reads a file containing the scramble algorithm of a rubik's cube. Then, the program runs a series of functions and tests, and outputs a solution algorithm at the end.
 
-A 2D array was used to store the data of the rubik's cubes. The program reallocates the data on the 2D array constantly to simulate the movement of a rubik's cube. 
+A 2D array was used to store the data of the rubik's cubes. The program constantly reallocates the data on the 2D array to simulate the movements on a rubik's cube. 
 
 Later I used this program as a basis for a website, which is also on my repository.
 
